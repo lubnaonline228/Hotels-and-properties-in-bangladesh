@@ -18,6 +18,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Tableau public view: 
+Tableau public view: <br>
 https://public.tableau.com/app/profile/nahid.akhtar/viz/HotelandPropertyDatafromBooking_com/Dashboard2?publish=yes
 https://public.tableau.com/app/profile/nahid.akhtar/viz/HotelandPropertyDatafromBooking_com/Dashboard1?publish=yes

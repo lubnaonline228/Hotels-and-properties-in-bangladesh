@@ -12,6 +12,14 @@ The code for the data cleaning is in [this link](https://colab.research.google.c
 
 After running this code, you should get a file named `cleaned_dataset_properties_and_hotels.csv`. Alternatively you can get this dataset from [here](https://github.com/lubnaonline228/hotels_and_properties_in_bd/blob/main/cleaned_dataset_properties_and_hotels.csv).
 
+Finally, I used the scraped and cleaned dataset to understand and analyze the data using the Tableau Dashboard. Here are the questions that I considered:
+1. Which 3 cities have the most hotels and properties listed on Booking.com?
+2. Is there a correlation between rating and the average price of hotels?
+3. Which city has the most expensive 4-star hotels?
+4. Are there any 5-star hotels in Rajshahi? What is the average price of a 4-star hotel in Rajshahi?
+5. Which 3 cities have the highest rating on Booking.com?
+6. In which cities can I find 4-star hotels in the price range of BDT 3,000 to 5,000?
+
 ## Build from Sources
 1. Clone the repo:
 ```bash

@@ -20,22 +20,24 @@ Finally, I used the scraped and cleaned dataset to understand and analyze the da
 5. Which 3 cities have the highest rating on Booking.com?
 6. In which cities can I find 4-star hotels in the price range of BDT 3,000 to 5,000?
 
-You can view the public dashboards in the following 2 links:
+You can view the public dashboards in the following 2 links: <br>
 https://public.tableau.com/app/profile/nahid.akhtar/viz/HotelandPropertyDatafromBooking_com/Dashboard2?publish=yes
 https://public.tableau.com/app/profile/nahid.akhtar/viz/HotelandPropertyDatafromBooking_com/Dashboard1?publish=yes
 
 Here, the first dashboard displays a data summary by City. All the records are linked to the first bar chart, so you can easily filter the entire dashboard by city, by selecting the required cities from the 'Number of hotels by city' bar chart.
 The second dashboard displays other relevant analytics, like 'average price by city and star rating', as well as 'highest rating by city'.
 
-## Findings from the Dashboards
+## Findings and Observations from the Dashboards
 1. Dhaka, Sylhet, and Cox's Bazar have the most hotels and properties listed on Booking.com
 2. Yes there is fairly good correlation between rating and average price, even though there are some cases where average price of a high-rated hotel is less. This could probably be due to discounts provided by certain hotels.
 3. Dhaka has the most expensive 4-star hotels, since the average price of 4-star hotels in Dhaka are the highest. Second and third most expensive are Jessore and Chittagong respectively.
 4. No, there are no 5-star hotels in Ranjshahi. The average price of a 4-star hotel in Rajshahi is BDT 4,233.
 5. Sylhet, Dhaka, and Khulna have the highest rating on Booking.com (all have an average rating above 9 out of 10)
 6. You can find a 4-star hotel in the price range of BDT 3,000 to 5,000 in Khulna, Rajshahi, and Sylhet.
+7. The only Bangladeshi Hotel that got an 'Exceptional' rating on Booking.com is in Sylhet, and it has an average price of BDT 4,493.
+8. Hotels of Bandarban have the lowest public rating.
 
-## Build from Sources
+## Build from Sources and Run the Selenium Scraper
 1. Clone the repo:
 ```bash
 git clone https://github.com/lubnaonline228/hotels_and_properties_in_bd.git

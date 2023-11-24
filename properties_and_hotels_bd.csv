@@ -1,0 +1,551 @@
+name,city,price,stars,rating_text,num_reviews,total_rating,staff,facilities,cleanliness,comfort,value_for_money,location_rating
+Jatra Flagship Khulna City Centre,Khulna,"BDT 3,756",4,Wonderful,242,9,8.9,9.5,9.4,8.9,8.8,-1
+Jatra Flagship Rajshahi City Centre,Rājshāhi,"BDT 2,485",4,Very Good,223,8.4,8.8,8.8,8.5,8.5,-1,-1
+Hotel Khan Palace,Kuākāta,"BDT 4,984",3,Good,79,7.8,8.6,8.5,8.1,8.1,8.1,-1
+Hotel Orchid Blue,Ināni,"BDT 2,547",3,Good,8,7.7,7.9,8.2,8.6,-1,-1,-1
+The Grand Hotel BD,Sylhet,"BDT 1,196",3,Good,930,7.5,8.4,7.7,7.8,7.6,7.9,8.8
+Tiger Garden Int Hotel,Khulna,"BDT 4,208",3,Review score,89,6.1,7,6.8,6.3,8.2,7.7,-1
+Hotel Noorjahan Grand,Sylhet,"BDT 4,128",4,Good,965,7.8,-1,8.6,8.1,8.1,8.1,8.1
+DESHA TARC,Kushtia,"BDT 3,987",4,Review score,6,6.3,8.3,5.4,7.9,-1,-1,-1
+Tea Heaven Resort,Sreemangal,"BDT 2,769",3,Review score,17,5.5,6.5,6.6,6.5,7.8,-1,-1
+Hotel Grand Brahmaputra Chilmari,Chilmāri,"BDT 1,661",5,Review score,0,0,-1,-1,-1,-1,-1,-1
+"Aduri Kunjo Resort, Gazipur",Sonātala,"BDT 3,876",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Omni Residency Dhaka,"Gulshan, Dhaka","BDT 8,880",4,Very Good,265,8.3,-1,8.9,8.4,8.8,8.8,8.2
+Little Rangpur Inn,Rangpur,"BDT 3,322",0,Good,110,7.6,7.9,8.3,8.3,7.8,8.2,9.2
+Hotel Bonolota international,Rājshāhi,BDT 941,2,Review score,90,5.4,6,5.9,7.1,-1,-1,-1
+Nascent Gardenia Residence,Dhaka,"BDT 4,568",4,Very Good,151,8.3,-1,9.1,8.2,8.6,8.6,8.7
+Rose Garden Guest House,Khulna,"BDT 1,495",0,Review score,41,6.3,7.1,7.1,7.8,-1,-1,-1
+Brisa Marina CBC Resort ব্রিসা মেরিনা সিবিসি রিসোর্ট,Patenga,"BDT 6,866",2,Excellent,11,8.6,9.5,9.8,9,9.8,10,-1
+Sawpnorajjo Park & Resort,Kuākāta,"BDT 1,661",1,Review score,29,6.1,6,6.3,6.2,6,-1,-1
+Hotel 71,Dhaka,"BDT 3,502",3,Good,"1,417",7.8,-1,8.4,8,8.3,8.3,7.8
+Royal Raj Hotel,Rājshāhi,"BDT 5,980",4,Excellent,31,8.6,8.5,9.2,9,7.7,8.6,7.5
+Green Leaf Guest House ColIege Road Sreemongal,Sreemangal,"BDT 1,329",0,Very Good,2,8,7.5,8.8,10,-1,-1,-1
+Ripon,Khulna,BDT 199,0,Good,17,7,6.6,-1,-1,-1,-1,-1
+Hotel Pushpo Bilash,Khulna,"BDT 2,871",3,Review score,20,6.4,7.4,6.8,7.6,-1,-1,-1
+Hotel Shuktara Dhaka,Dhaka,"BDT 3,773",3,Very Good,609,8.2,-1,8.8,8.2,8.6,8.5,8
+Hotel Hill Ambassador,Rāngāmāti,"BDT 2,658",2,Review score,3,5.3,6.7,5,9.2,-1,-1,-1
+Hotel Hill Ambassador,Rāngāmāti,"BDT 2,658",2,Review score,3,5.3,6.7,5,9.2,-1,-1,-1
+Q Palace,Comilla,"BDT 2,215",3,Review score,4,3.5,6.7,6.7,7.5,-1,-1,-1
+CCULB Resort & Convention Hall,Gazipur,"BDT 5,094",0,Very Good,5,8.4,8.1,8.1,-1,-1,-1,-1
+Hotel The Enchanted,"Gulshan, Dhaka","BDT 5,532",0,Good,302,7,6.9,7.2,7.2,7.1,8.5,6.9
+Hotel Green City International Khulna,Khulna,"BDT 2,250",2,Review score,0,0,-1,-1,-1,-1,-1,-1
+Iqbal Manjil Serviced Apartment,Jessore,"BDT 3,987",4,Good,29,7.3,7,8.1,7.3,8.3,7,-1
+Hotel Grand Park Barishal,Barisāl,"BDT 6,693",3,Very Good,48,8,8.8,7.9,8.8,8.5,7,8.6
+Raffles Inn Faridpur,Faridpur,"BDT 2,592",3,Review score,5,5.4,6.3,6.9,6.9,6.9,-1,-1
+CEBF of SERVICEMUSEUM,Bogra,"BDT 3,588",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+D' more Sajek Valley Hotel & Resort,Māhmuam,"BDT 6,091",3,Good,3,7.7,7.5,6.7,7.5,-1,-1,-1
+Eque Heritage Hotel & Resort,Lakshmanpur Bālāpāra,"BDT 3,788",0,Good,10,7,8.5,-1,-1,-1,-1,-1
+Hotel Afford Inn,"Uttara, Dhaka","BDT 3,634",3,Good,376,7.3,-1,8.3,7.3,7.5,7.4,7.5
+YJ Homes,Noapara,"BDT 3,295",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+GRAND RIVER VIEW HOTEL,Rājshāhi,"BDT 8,638",4,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Valentino,Noākhāli,"BDT 3,765",3,Very Good,2,8,8.8,10,8.8,-1,-1,-1
+Mona's Palace.,Silghāt,"BDT 5,537",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Urmee Guest House,Kelātali,"BDT 2,215",2,Review score,0,0,-1,-1,-1,-1,-1,-1
+JAKAS Resource Center,Helkunda,"BDT 6,645",3,Exceptional,1,10,10,7.5,7.5,-1,-1,-1
+Bono Nibash Hill Resort,Bāndarban,"BDT 3,101",3,Review score,13,5.4,5.6,6,5.2,7.9,-1,-1
+Kazi International Residential Hotel,Benāpol,"BDT 3,101",3,Review score,0,0,-1,-1,-1,-1,-1,-1
+Annex Suites Bogra - CityCentre,Bogra,"BDT 3,101",3,Review score,37,6.5,6.4,7.2,6.8,8.5,8.5,-1
+Dream Square Resort,Gazipur,"BDT 7,177",0,Review score,3,5.3,7.5,7.5,-1,-1,-1,-1
+Hotel Shah Nibash Panthapath,Dhaka,"BDT 1,894",2,Review score,11,6.7,6.8,7,6.1,8.4,-1,-1
+Hotel Fresh Abasik,Dhaka,"BDT 1,550",3,Review score,2,5,-1,-1,-1,-1,-1,-1
+MD TAREQ AZIZ SHAON,Atraighat,"BDT 1,107",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+MD TAREQ AZIZ SHAON,Atraighat,"BDT 1,107",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Sea Moon,Kelātali,"BDT 2,658",3,Review score,0,0,-1,-1,-1,-1,-1,-1
+SKS Inn,Tulshighāt,"BDT 4,485",4,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Al-Sarwar (Res.),Rājārbāg,"BDT 1,357",2,Review score,28,4.4,5,4.9,5.3,5.2,6.6,4.2
+"Hotel Skypark, Sreemangal",Sreemangal,"BDT 1,772",3,Review score,41,6.6,6.6,6.9,6.8,8.7,5.8,-1
+Grand Sultan Tea Resort & Golf,Sreemangal,"BDT 16,059",0,Very Good,16,8.1,9.2,8.8,7.2,8.6,10,-1
+Hotel Fresh Abasik,Dhaka,"BDT 1,550",3,Review score,2,5,5,5,5,5,-1,-1
+Jatra Sonargaon Royal Resort,Āminpur,"BDT 8,648",0,Review score,12,6.4,6,6.9,-1,-1,-1,-1
+Nelly's Cottage,Dakshin Nabagrām,"BDT 4,635",0,Very Good,1,8,7.5,-1,-1,-1,-1,-1
+HOTEL MOHSIN PLAZA,Sreemangal,"BDT 1,550",0,Review score,22,5.7,5.8,6.5,8.4,10,-1,-1
+The Cozy Nest,Bholānāthpur,"BDT 7,974",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Ali Plaza,Sylhet,"BDT 1,661",3,Good,26,7.2,7.7,8.2,7.9,8.1,6.3,-1
+Oronner Din Ratri,Sreemangal,"BDT 2,879",0,Exceptional,2,10,10,-1,-1,-1,-1,-1
+Hotel Apon Palace,Atgaon,"BDT 1,421",3,Review score,0,0,-1,-1,-1,-1,-1,-1
+Paprika Hotel,Maulvi Bāzār,"BDT 3,101",0,Exceptional,2,10,10,-1,-1,-1,-1,-1
+Hotel Star International,Rājshāhi,"BDT 2,377",3,Review score,52,5,6.1,6,5.4,6.2,5.8,-1
+Hotel Sarina,"Gulshan, Dhaka","BDT 17,946",5,Good,401,7.6,-1,8.4,7.8,8.1,8.2,7.6
+Resort Atlantis,Dhalpur,"BDT 5,537",3,Very Good,2,8.5,10,10,10,10,-1,-1
+GREEN LEAF GUEST HOUSE,Sreemangal,"BDT 1,329",0,Excellent,6,8.8,8.8,9.2,7.5,-1,-1,-1
+Jashore IT Park Hotel and Resort,Jessore,"BDT 3,190",0,Review score,7,6.4,7.9,8.8,-1,-1,-1,-1
+Best Western PLUS Maya - Luxury Collection Hotel,Dhaka,"BDT 9,987",4,Very Good,294,8.3,-1,8.9,8.4,8.9,9,8.1
+THE ASTERIA HOTEL BOGURA,Bogra,"BDT 2,658",2,Review score,12,5.9,6.6,6.8,6.4,8.2,5,-1
+Le Meridien Dhaka,Dhaka,"BDT 33,889",5,Good,75,7.8,-1,8.3,8.1,8.4,8.6,6.5
+Nascent Gardenia Baridhara,Dhaka,"BDT 6,101",4,Very Good,27,8.2,8.2,8.3,8.2,8.3,9.1,7.5
+Bonochhaya EcoResort,Khagrāchari,"BDT 2,592",0,Wonderful,2,9,10,10,-1,-1,-1,-1
+Bonochhaya EcoResort,Khagrāchari,"BDT 2,592",0,Wonderful,2,9,10,10,-1,-1,-1,-1
+Mamata Palli Resort,Dhananjaypur,"BDT 7,199",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+MD Rasel Mahmud,Mujāti,"BDT 1,300",0,Review score,2,5,10,-1,-1,-1,-1,-1
+Renaissance Dhaka Gulshan Hotel,"Gulshan, Dhaka","BDT 17,609",5,Very Good,102,8,-1,8.7,8.7,8.9,9.1,7.1
+Shada Pathor Hotel and Resort,Bholāganj,"BDT 3,588",0,Good,10,7.7,7.8,9.2,-1,-1,-1,-1
+Six Seasons Hotel,"Gulshan, Dhaka","BDT 17,055",5,Good,135,7.9,8.4,8,8.3,8.4,7.4,8.4
+ELORA,Naogaon,"BDT 2,215",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Mitera Home,Chaubāria,"BDT 3,876",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+HOTEL STUDiO23,Dhaka,"BDT 3,912",3,Very Good,17,8.5,9,8.7,8.7,7.4,-1,-1
+Best Western Plus Maple Leaf,"Uttara, Dhaka","BDT 12,182",4,Good,346,7.9,8.1,8.4,8.4,7.5,8.6,8.2
+INNOTEL BATON ROUGE - A Luxury Collection Hotel,"Gulshan, Dhaka","BDT 3,789",4,Good,314,7.2,7.4,7.7,7.6,7.5,8.7,7.3
+Restinn Hotel,Maulvi Bāzār,"BDT 2,193",3,Review score,13,6.9,7.3,6.9,6.3,9,2.5,-1
+Nirvana Inn,Sylhet,"BDT 4,784",4,Good,126,7.5,8.1,8.1,7.6,8.7,6,-1
+Hotel Prince,Rāngāmāti,"BDT 1,661",0,Review score,24,5.8,7.8,-1,-1,-1,-1,-1
+Service apartment,Bhola,"BDT 6,096",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+"Hotel Park Inn, Khulna",Khulna,"BDT 1,329",1,Review score,16,6.4,6.1,6.6,8.2,-1,-1,-1
+Kuakata Hotel & Resort,Kuākāta,"BDT 1,661",0,Exceptional,3,9.7,10,-1,-1,-1,-1,-1
+The Peninsula Chittagong Limited,Chittagong,"BDT 7,420",4,Good,211,7.7,-1,8.4,8.1,8.4,8.4,7.5
+Sky City Hotel Dhaka,Dhaka,"BDT 6,214",4,Very Good,230,8.1,-1,8.8,8.3,8.6,8.6,8.1
+Hotel Royal Beach & Restaurant,Jaliapāra,"BDT 5,482",2,Review score,4,4.3,4.4,5,5,5.6,-1,-1
+Tourist Home,"Uttara, Ābdullāpur","BDT 1,772",0,Good,17,7.9,7.6,8.5,-1,-1,-1,-1
+Cha luxury Hotel & Restaurant,Sreemangal,"BDT 3,000",3,Review score,34,5.9,6.5,6.5,8.2,-1,-1,-1
+The Papillon Hotel Bhola,Bhola,"BDT 4,430",3,Review score,1,6,5,5,7.5,-1,-1,-1
+Hotel Heaven Inn,"Uttara, Dhaka","BDT 2,990",0,Good,101,7.4,-1,8.3,7.3,7.7,7.6,7.4
+Coventina Lake Suites,"Gulshan, Dhaka","BDT 5,316",0,Very Good,177,8,-1,8.6,8,8.6,8.6,8
+Coventina Lake Suites,"Gulshan, Dhaka","BDT 5,316",0,Very Good,177,8,-1,8.6,8,8.6,8.6,8
+litoner flat,Kālīchandbāri,"BDT 55,375",5,Review score,0,0,-1,-1,-1,-1,-1,-1
+Richmond Hotel Sylhet,Sylhet,"BDT 2,273",3,Review score,180,6.2,6.7,6.8,6.5,8,5.7,-1
+Asma-ul-husna apartment,Rājshāhi,"BDT 2,769",0,Good,2,7.5,8.8,-1,-1,-1,-1,-1
+Jungle cottage,Sreemangal,"BDT 3,544",0,Review score,28,6.8,7,7,8.4,5.8,-1,-1
+Hotel Bengal Inn,"Gulshan, Dhaka","BDT 7,199",4,Good,17,7.6,9.6,8.1,8.2,8.4,7.9,8.4
+Priyo Nibash Stylish Residential Hotel,Dhaka,"BDT 3,765",4,Good,263,7.9,8.1,8.3,8.4,7.8,7.8,8.2
+Hotel D-Palace,Dhaka,"BDT 4,430",3,Good,12,7.5,8.1,6.7,7.9,-1,-1,-1
+Seagull Hotel Ltd,Cox's Bazar,"BDT 5,316",5,Review score,175,6,-1,7.4,6.5,6.7,6.7,6.2
+Radisson Blu Chattogram Bay View,Chittagong,"BDT 14,951",5,Good,270,7.9,8.2,8.1,8.5,8.5,7.4,8.7
+Central Inn Dhaka City Centre,Dhaka,"BDT 2,879",3,Good,162,7.6,7.8,7.9,8,7.9,8.6,7.3
+Hotel Labbaik 3,Dhaka,"BDT 1,661",3,Review score,3,6,7.5,6.3,6.3,8.8,-1,-1
+Amari Dhaka,"Gulshan, Dhaka","BDT 21,042",5,Good,120,7.9,-1,8.6,8.1,8.4,8.5,7
+Wood Burn Hotel,Bogra,"BDT 3,212",2,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Farmis Garden,Sylhet,"BDT 1,595",3,Good,131,7.4,7.9,7.9,7.8,8.8,-1,-1
+Hotel Valley Garden,Sylhet,"BDT 3,738",3,Good,122,7.3,8.3,7.7,8,8,7.6,8.2
+Rezala Residence,"Uttara, Dhaka","BDT 1,709",0,Review score,32,4.9,5.5,6.3,6.7,5.9,7.1,6.9
+Foy's Lake Resort,Chittagong,"BDT 6,645",3,Very Good,5,8.4,8.5,7.5,8.5,-1,-1,-1
+Grand Selim Resort & Tour – GSRT,Sreemangal,"BDT 2,691",3,Review score,85,5.6,5.9,6.3,6.5,6.3,6.4,6.1
+Hotel D'more Bandarban,Barpāra,"BDT 6,645",4,Review score,0,0,-1,-1,-1,-1,-1,-1
+Pearl Hotel,"Gulshan, Dhaka","BDT 10,632",4,Very Good,31,8.5,8.6,9,9.2,8.3,8.7,7.5
+After Hours Residence,"Gulshan, Dhaka","BDT 5,791",4,Good,54,7.9,8.8,8.3,8.8,8.7,8,8.8
+Lakeshore Hotel & Apartments,"Gulshan, Dhaka","BDT 16,147",5,Very Good,53,8.2,9,8.2,8.7,8.4,7.8,8.9
+"Holiday Inn Dhaka City Centre, an IHG Hotel",Dhaka,"BDT 11,739",5,Very Good,270,8.4,-1,8.9,8.9,9.2,9.2,8
+Hotel Plaza,Bāndarban,"BDT 1,772",0,Review score,17,5.5,5.2,7,8.8,-1,-1,-1
+Hotel Plaza,Bāndarban,"BDT 1,772",0,Review score,17,5.5,5.2,7,8.8,-1,-1,-1
+The Zabeer Dhaka,"Uttara, Dhaka","BDT 7,460",3,Good,26,7.8,8.7,8.8,8.1,8.8,-1,-1
+Maya Eco Apartment Service,"Gulshan, Dhaka","BDT 3,489",0,Good,48,7.5,7.8,8.3,8.8,5,-1,-1
+Hotel Grand Circle Inn,Dhaka,"BDT 3,655",3,Good,322,7.5,-1,8.5,8,8.1,8.2,8
+Banorupa Kuakata hotel,Kuākāta,"BDT 2,711",0,Excellent,35,8.7,8.4,8.7,9.1,8.4,8.1,10
+Homestay 2,Dhaka,BDT 886,0,Review score,9,6.9,7.2,8.1,-1,-1,-1,-1
+Khondoker Bari Apartment,Lālabāzār,"BDT 7,177",0,Review score,1,1,2.5,2.5,5,5,-1,-1
+Sohib Manzil,Sylhet,"BDT 7,088",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Star Pacific,Sylhet,"BDT 6,280",4,Good,21,7.7,8.2,7.1,8.5,-1,-1,-1
+Marino Royal Hotel,"Uttara, Dhaka","BDT 8,656",4,Good,148,7.8,8.8,8.1,8.5,8.4,7.9,8.8
+UU Residential Hotel,Dhaka,"BDT 2,769",4,Review score,0,0,-1,-1,-1,-1,-1,-1
+Saint Martin Resort,Cox's Bazar,"BDT 2,215",0,Review score,11,4.7,6.7,-1,-1,-1,-1,-1
+Shinepukur Suites,"Gulshan, Dhaka","BDT 9,967",0,Very Good,36,8.1,7.6,8.2,8.4,7.6,8.6,8.1
+Galesia Hotel & Resort,"Gulshan, Dhaka","BDT 4,811",3,Good,200,7.3,-1,8.2,7.3,7.8,7.8,7.3
+The Westin Dhaka,"Gulshan, Dhaka","BDT 26,469",5,Very Good,93,8.1,8.6,8.4,8.9,8.8,7.3,8.4
+Paragon Hotel and Resort,Sreemangal,"BDT 13,954",3,Very Good,4,8.5,8.1,8.1,9.4,-1,-1,-1
+West Park Inn,"Gulshan, Dhaka","BDT 3,322",3,Review score,167,6.2,6.7,6.8,6.5,8.2,8.4,-1
+Rahma’s B&B,Sylhet,"BDT 4,493",0,Exceptional,17,9.5,9,9.7,-1,-1,-1,-1
+HOTEL BLUE BIRD,"Uttara, Dhaka","BDT 1,993",3,Review score,384,5.7,6.4,6.4,6.5,6.3,7.8,6.9
+Nitol Bay Resort,Kelātali,"BDT 6,479",3,Review score,1,1,5,2.5,2.5,2.5,-1,-1
+Private Room in Bashundhara near Airport,Barua,"BDT 2,268",0,Very Good,8,8.1,7.5,-1,-1,-1,-1,-1
+Hotel Gulshan Lake View,"Gulshan, Dhaka","BDT 4,984",3,Review score,198,6,6.3,6.8,6.7,6.5,7.4,5
+Hotel Suite Palace Dhaka,Dhaka,"BDT 2,879",3,Good,20,7.4,7,7.2,6.7,7,7.5,5
+Orchid Business Hotel,Chittagong,"BDT 3,433",3,Review score,3,5.3,6.7,5,7.5,-1,-1,-1
+"The Midori by Lakeshore, Gulshan , Dhaka","Gulshan, Dhaka","BDT 14,034",4,Good,46,7.9,-1,8.3,7.8,8.3,8.1,7.5
+"The Midori by Lakeshore, Gulshan , Dhaka","Gulshan, Dhaka","BDT 10,233",4,Good,46,7.9,-1,8.3,7.8,8.3,8.1,7.5
+Asia Hotel & Resorts,Dhaka,"BDT 5,183",3,Good,121,7.4,8.6,7.8,7.9,7.9,7.4,7.4
+Hotel Blue Castle,"Uttara, Dhaka","BDT 2,769",3,Good,257,7.3,-1,8.3,7.6,7.7,7.6,7.5
+Jatra Flagship Chattogram City Centre,Chittagong,"BDT 3,246",4,Very Good,189,8.4,9.3,8.4,9.1,9,8.5,8.5
+Asba Cottage,Maulvi Bāzār,"BDT 2,492",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Sunset Serenity,Jaliapāra,"BDT 13,047",0,Review score,1,5,5,-1,-1,-1,-1,-1
+ISMAIL Guest Room,Joār Sāhāra,"BDT 2,215",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+White Palace Hotel,"Uttara, Dhaka","BDT 4,945",3,Good,125,7.9,-1,8.7,8,8.1,8,7.6
+White Park Hotel & Suites,Chittagong,"BDT 3,433",0,Good,23,7.1,8.1,8.2,6.3,-1,-1,-1
+Hotel Bengal Canary Park,"Gulshan, Dhaka","BDT 5,281",4,Good,35,7.5,8.1,7.5,7.4,7.6,6.9,8.1
+Hotel The Cox Today,Cox's Bazar,"BDT 6,831",5,Review score,21,6.2,7.1,6.8,6.3,6.4,-1,-1
+Bandor Hotel,Bāndarban,"BDT 110,750",5,Review score,0,0,-1,-1,-1,-1,-1,-1
+Almas Hotel Sylhet,Debpur,"BDT 2,769",0,Review score,3,4.7,6.7,-1,-1,-1,-1,-1
+HOTEL HERITAGE,Chittagong,"BDT 1,216",2,Review score,141,6.6,6.6,6.7,6.9,7.3,7.4,7.3
+Banorupa Kuakata hotel,Kuākāta,"BDT 2,711",0,Excellent,35,8.7,8.4,8.7,9.1,8.4,8.1,10
+Homestay 2,Dhaka,BDT 886,0,Review score,9,6.9,7.2,8.1,-1,-1,-1,-1
+Lakeshore Banani,"Gulshan, Dhaka","BDT 9,303",4,Good,69,7.9,8.9,8.2,8.8,8.7,7.9,8.6
+UU Residential Hotel,Dhaka,"BDT 2,769",4,Review score,0,0,-1,-1,-1,-1,-1,-1
+Paragon Hotel and Resort,Sreemangal,"BDT 13,954",3,Very Good,4,8.5,8.1,8.1,9.4,-1,-1,-1
+Hotel Sea Crown,Cox's Bazar,"BDT 5,537",3,Good,459,7,7.4,7.5,7.1,9.1,8,-1
+Hotel Shopno Nibash,Dhaka,"BDT 1,844",3,Review score,16,6.6,7.2,7.5,7.5,7.2,8.5,2.5
+Hotel Suite Palace Dhaka,Dhaka,"BDT 2,879",3,Good,20,7.4,7,7.2,6.7,7,7.5,5
+Taz Garden House,"Uttara, Dhaka","BDT 2,104",2,Very Good,132,8.1,7.9,7.9,8.2,8.1,8.8,-1
+Affordable AC Room With Shared Bathroom in Naya Paltan Free WIFI,Dhaka,BDT 736,0,Good,17,7.1,7.4,7.5,7.7,-1,-1,-1
+"Crowne Plaza Dhaka Gulshan, an IHG Hotel","Gulshan, Dhaka","BDT 14,287",5,Very Good,307,8.3,-1,9,8.3,8.8,8.7,7.8
+"Crowne Plaza Dhaka Gulshan, an IHG Hotel","Gulshan, Dhaka","BDT 15,616",5,Very Good,307,8.3,-1,9,8.3,8.8,8.7,7.8
+Golden Tulip The Grandmark Dhaka,"Gulshan, Dhaka","BDT 8,303",4,Excellent,55,8.7,-1,9.1,8.6,8.8,9,8.2
+Jatra Flagship Dhaka Lake View,"Gulshan, Dhaka","BDT 6,406",4,Excellent,343,8.8,-1,9.5,8.5,9.2,9.1,8.8
+Hotel Air Inn Ltd - Airport View,"Uttara, Dhaka","BDT 3,077",3,Review score,142,6.5,-1,7.5,6.9,7.2,7.3,6.8
+Hotel West Valley Dhaka,Dhaka,"BDT 3,322",3,Wonderful,15,9.1,9.3,9.5,8.8,9.3,5,-1
+The Shahin Residence,Dhaka,"BDT 2,539",2,Very Good,65,8.1,-1,8.7,8.1,8.8,8.2,7.7
+The Zabeer Jashore,Jessore,"BDT 8,838",4,Good,23,7.5,8.2,8,7,8.6,10,-1
+Bay Marina Cox's Bazar,Kelātali,"BDT 11,075",3,Review score,0,0,-1,-1,-1,-1,-1,-1
+4 Beds Condo Holiday Home in Bashundhara/Dhaka,Dhaka,"BDT 5,194",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Private Room rent daily in Mirpur,"Mirpur, Senpāra Parbata","BDT 1,789",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Bengal Blueberry,"Gulshan, Dhaka","BDT 8,501",4,Very Good,69,8,-1,8.9,8.4,8.8,8.5,7.8
+Hotel Victory - Best in City Center,Dhaka,"BDT 3,524",3,Good,54,7.7,8.2,7.9,7.9,7.5,7.5,8.6
+Royal Park Residence Hotel,"Gulshan, Dhaka","BDT 9,691",4,Very Good,71,8.1,-1,8.9,8,8.4,8.3,7.8
+Rafflesia Serviced Apartments,"Gulshan, Dhaka","BDT 7,752",0,Very Good,56,8.2,8.9,8.3,8.6,8.4,8.5,9
+Hotel Asia,Cox's Bazar,BDT 997,1,Review score,80,4.6,5.4,5.3,5.7,4.8,6.4,-1
+Ocean Paradise Hotel and Resort,Cox's Bazar,"BDT 6,645",5,Good,5,7.4,7.5,8,7,9,2.5,-1
+Hotel Garden City,Barpāra,"BDT 1,661",0,Review score,4,4,5.8,-1,-1,-1,-1,-1
+Hotel Sea Shine,Cox's Bazar,"BDT 1,661",0,Review score,171,4.7,5.5,7.6,5.8,-1,-1,-1
+Hotel Royal Inn,"Uttara, Dhaka","BDT 2,517",3,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Rongdhanu Residential,Dhaka,"BDT 1,152",2,Review score,32,6.8,7.3,7.3,7.7,7.6,10,-1
+Hotel Madina International হোটেল মদিনা ইন্টা: (আবাসিক),Dhaka,"BDT 1,107",0,Review score,6,3,7.5,-1,-1,-1,-1,-1
+Hotel Seven Star,Dhaka,"BDT 1,772",1,Review score,177,5.9,6.4,6.5,6.3,6,5.5,-1
+Hotel Sarina,"Gulshan, Dhaka","BDT 17,946",5,Good,401,7.6,-1,8.4,7.8,8.1,8.2,7.6
+Short stay service apartment,Dhaka,"BDT 1,157",0,Good,96,7.6,8,8,7.8,7.6,8.1,-1
+The Alina Hotel Near Railway Station,Chittagong,"BDT 2,769",3,Review score,16,6,6.5,6.2,5.3,7.9,5,-1
+The Alina Hotel Near Railway Station,Chittagong,"BDT 2,769",3,Review score,16,6,6.5,6.2,5.3,7.9,5,-1
+Hotel Sea Crown,Cox's Bazar,"BDT 2,990",3,Good,459,7,7.4,7.5,7.1,9.1,8,-1
+HOTEL BLUE BIRD,"Uttara, Dhaka","BDT 1,993",3,Review score,384,5.7,6.4,6.4,6.5,6.3,7.8,6.9
+Nitol Bay Resort,Kelātali,"BDT 6,479",3,Review score,1,1,5,2.5,2.5,2.5,-1,-1
+Hotel Gulshan Lake View,"Gulshan, Dhaka","BDT 3,210",3,Review score,198,6,6.3,6.8,6.7,6.5,7.4,5
+Hotel Suite Palace Dhaka,Dhaka,"BDT 2,879",3,Good,20,7.4,7,7.2,6.7,7,7.5,5
+Orchid Business Hotel,Chittagong,"BDT 3,433",3,Review score,3,5.3,6.7,5,7.5,-1,-1,-1
+Shaira Garden Hotel & Resorts,Nārāyanganj,"BDT 4,430",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Moon Nest,Dhoāpālong,"BDT 4,430",0,Very Good,21,8.3,7.2,-1,-1,-1,-1,-1
+Green Peace,Bāimākānda,"BDT 5,537",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Anchorage The Residence,"Uttara, Dhaka","BDT 3,289",4,Review score,32,6.4,7.7,7.1,6.8,6.6,6.7,7.3
+Pan Pacific Sonargaon Dhaka,Dhaka,"BDT 12,625",5,Good,266,7.7,7.7,8.1,8.2,7.3,8.4,7.6
+W Hotel,Sylhet,"BDT 1,052",3,Good,26,7.2,7.7,7.4,7.3,7.2,7.5,8.3
+Mohammadia Restaurant & Guest House 2,Dhaka,"BDT 1,661",0,Review score,6,6.2,6.7,6.7,7.9,-1,-1,-1
+4 Beds Condo Holiday Home in Bashundhara/Dhaka,Dhaka,"BDT 5,194",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Padma Residential,Dhaka,"BDT 1,866",0,Review score,5,6.8,7,-1,-1,-1,-1,-1
+Paradise Palace,Joār Sāhāra,"BDT 2,769",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Richmond Hotel & Suites,"Uttara, Dhaka","BDT 2,613",3,Review score,569,5.8,7.2,6.3,6.5,6.4,6.3,8
+Radisson blu Dhaka Water Garden,Dhaka,"BDT 18,274",5,Good,500,7,-1,7.7,7.4,7.8,7.8,6.6
+Hotel Green Castle,Rāngāmāti,"BDT 1,218",0,Good,6,7,8.8,-1,-1,-1,-1,-1
+Contemporary Heights Hotel and Apartments,Dhaka,"BDT 3,365",4,Review score,199,5.7,6.4,6.6,6.1,7.4,5.5,-1
+Park Hyatt Dhaka,"Gulshan, Dhaka","BDT 3,433",3,Review score,27,6.5,6.5,7.3,6.9,6.9,8,6.9
+Hill Crown Hotel & Resort,Bāndarban,"BDT 1,661",0,Review score,1,2,2.5,-1,-1,-1,-1,-1
+Dhaka Regency Hotel & Resort Limited,Dhaka,"BDT 13,844",5,Review score,127,6.9,-1,7.7,7.4,7.8,7.6,6.6
+Hotel Ornate,Dhaka,"BDT 2,769",3,Review score,275,6.2,7,6.7,6.4,7.8,7.3,-1
+Hotel Ornate,Dhaka,"BDT 2,769",3,Review score,275,6.2,7,6.7,6.4,7.8,7.3,-1
+Hotel Aranna Residential,Barpāra,"BDT 1,883",0,Good,5,7,8.5,-1,-1,-1,-1,-1
+Full Flat-Cheap Budget,Alinagar,"BDT 2,132",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Grand Mostafa Hotel Ababil,Sylhet,"BDT 4,984",4,Good,127,7.8,-1,8.3,7.9,8.7,8.7,8.3
+Japanese lodge hydrangea,"Uttara, Dhaka","BDT 5,537",0,Exceptional,9,9.6,10,-1,-1,-1,-1,-1
+Hotel Blue Sky Inn Banani,"Gulshan, Dhaka","BDT 3,688",2,Very Good,4,8.3,9.4,9.4,10,-1,-1,-1
+Small Luxury flat close to La Méridien Dhaka,Dhaka,"BDT 2,492",0,Review score,6,6.7,9,-1,-1,-1,-1,-1
+Hotel Windy Terrace,Cox's Bazar,"BDT 3,876",0,Good,133,7.1,8,8,7.5,7.2,8.3,-1
+Amzad Da,Khulna,"BDT 1,661",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Smart Hostel,Dhaka,"BDT 3,322",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Mira Garden,Sylhet,"BDT 3,876",4,Good,273,7.9,8.6,7.9,8.5,8.4,7.9,8.3
+Civic Inn,"Uttara, Dhaka","BDT 3,876",3,Review score,277,6.1,6.7,6.9,6.4,7.9,6.7,-1
+Marry House,Dhaka,"BDT 2,203",0,Review score,10,3.8,6,6,6.8,-1,-1,-1
+Secured Studio Apartment near Airport AC WiFi Oven,Dhaka,"BDT 1,037",0,Review score,20,4.8,4.5,-1,-1,-1,-1,-1
+Hotel New Royal Palace Dhanmondi,Dhaka,"BDT 1,661",2,Review score,27,5.8,6.5,6.5,6.7,6.7,7.4,4
+Paradise Place (Bashundhara R/A),Joār Sāhāra,"BDT 2,879",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Inani Beach Resort & Spa,Cox's Bazar,"BDT 4,208",3,Review score,3,5.7,10,8.8,7.5,8.8,-1,-1
+Hotel Prime Inn Mirpur 10,"Mirpur, Dhaka","BDT 1,883",2,Good,13,7,7.3,7.5,7.5,7.7,7.5,-1
+Lakeshore Heights,"Gulshan, Dhaka","BDT 10,765",4,Review score,0,0,-1,-1,-1,-1,-1,-1
+Grand Akther Sylhet,Sylhet,"BDT 1,993",3,Review score,0,0,-1,-1,-1,-1,-1,-1
+Silver Moon,Ināni,"BDT 4,264",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Grand Brothers,Sylhet,"BDT 1,329",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Luxury Furnished Apartment Dhaka,Dhaka,"BDT 4,233",0,Review score,2,4.5,5,-1,-1,-1,-1,-1
+Hotel Nice Look International,"Uttara, Dhaka","BDT 3,322",3,Good,5,7.4,8,8,8,8,-1,-1
+Where Luxury Meets Convenience.,Dhaka,"BDT 3,605",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Where Luxury Meets Convenience.,Dhaka,"BDT 3,605",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Jatra Hotel Grand Royal,Dhaka,"BDT 4,149",4,Good,95,7.1,7.7,8.1,7.8,7.3,8.6,-1
+Holiday Xpress,Dhaka,"BDT 3,212",3,Review score,41,6,7.1,7.2,7,7.8,6.6,-1
+Hotel Square Park,Rāngāmāti,"BDT 1,550",0,Review score,4,3.8,6.7,-1,-1,-1,-1,-1
+White Park Boutique Hotel,Chittagong,"BDT 2,990",0,Review score,73,5.4,7.8,-1,-1,-1,-1,-1
+Hotel Ashrafee,Dhaka,"BDT 3,765",3,Good,6,7.5,7.5,7.5,7.9,8.3,-1,-1
+Hotel Sea Cox,Cox's Bazar,"BDT 2,769",3,Review score,174,5.8,6.3,6.7,5.9,7.8,5.4,-1
+The Elite Residence Dhaka,"Uttara, Dhaka","BDT 2,736",4,Review score,134,6.8,-1,8.1,7.1,7.3,7.4,7.3
+Ali International Hotel,Dhaka,"BDT 1,395",0,Review score,79,5.6,5.8,6.2,4.8,-1,-1,-1
+Castle Bay Touch Cox's Bazar,Cox's Bazar,"BDT 3,655",3,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Sea World Cox's Bazar,Cox's Bazar,"BDT 2,326",3,Review score,66,5.3,6.2,6.3,6.3,6.1,7.6,7.5
+Hotel As Shams International,Dhaka,"BDT 1,495",1,Review score,130,5.3,6.2,6.2,5.6,6.5,6.3,-1
+Cozy Studio Apartment Basundhara Near By Airport,Dhaka,"BDT 2,492",0,Review score,10,6.8,7.8,6.8,8.8,-1,-1,-1
+Sreemangal Inn Hotel & Restaurant,Sreemangal,"BDT 2,215",0,Review score,9,5,6.9,-1,-1,-1,-1,-1
+Beststay Uttara Full furnished apartment with AC Wifi,"Uttara, Dhaka","BDT 2,144",0,Review score,11,6.5,8.2,7.7,8.2,-1,-1,-1
+Maati properties,Dhaka,"BDT 2,492",0,Review score,2,3,3.8,5,6.3,-1,-1,-1
+GRAND MAFI,Sylhet,"BDT 2,558",3,Good,34,7,7.4,7.9,7.5,7.3,8,5.4
+Hotel the grand hyatt,Dhaka,"BDT 5,537",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Shalimar Motijheel - Centre of City,Dhaka,"BDT 2,891",3,Review score,89,5.6,5.8,5.9,8.1,-1,-1,-1
+Hotel Diamond Park,Chittagong,"BDT 1,329",0,Review score,43,5.8,6.5,7.4,5,-1,-1,-1
+Cox Beach Resort,Cox's Bazar,"BDT 1,772",0,Review score,33,6,7.2,-1,-1,-1,-1,-1
+Rose View Hotel,Sylhet,"BDT 6,280",5,Review score,100,6.7,7.6,7.1,7.2,7.3,6.5,8
+Hotel Nandini,Dhaka,"BDT 5,150",3,Review score,36,6.9,7.8,8,8,7.3,8.1,10
+Shahjadi Resort,Cox's Bazar,"BDT 1,661",0,Review score,13,4,6,7.1,10,-1,-1,-1
+Evergreen Guest Lodge,Dhaka,"BDT 2,193",0,Wonderful,1,9,7.5,-1,-1,-1,-1,-1
+Evergreen Guest Lodge,Dhaka,"BDT 2,193",0,Wonderful,1,9,7.5,-1,-1,-1,-1,-1
+Hotel Windy Terrace,Cox's Bazar,"BDT 3,876",0,Good,133,7.1,8,8,7.5,7.2,8.3,-1
+HANSA- A Premium Residence,"Uttara, Dhaka","BDT 12,182",4,Very Good,19,8,-1,9.2,8.7,8.8,8.8,7.9
+Secured Studio Apartment near Airport AC WiFi Oven,Dhaka,"BDT 1,037",0,Review score,20,4.8,4.5,-1,-1,-1,-1,-1
+Paradise Place (Bashundhara R/A),Joār Sāhāra,"BDT 2,879",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Unique Regency Dhaka,"Gulshan, Dhaka","BDT 7,177",4,Review score,16,6.8,8.4,7.9,8.8,-1,-1,-1
+Silver Moon,Ināni,"BDT 4,264",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Grand Shah Kamal,Sylhet,"BDT 2,547",2,Exceptional,1,10,10,10,10,-1,-1,-1
+Hotel Golden Hill,Cox's Bazar,"BDT 3,101",0,Review score,50,5.9,7,-1,-1,-1,-1,-1
+Maple Crest Service Apartment,"Gulshan, Dhaka","BDT 2,523",0,Good,12,7.8,7.5,9.4,-1,-1,-1,-1
+Cozy Budget Friendly Ac Room (Non Attached),Dhaka,"BDT 1,894",0,Review score,6,5.7,6.7,-1,-1,-1,-1,-1
+Garden Residents,"Uttara, Dhaka","BDT 2,589",3,Good,100,7,7.3,7.5,7.5,7.3,8.2,7.3
+Hotel City Panthapath,Dhaka,"BDT 2,215",0,Good,8,7,6.6,8.8,10,-1,-1,-1
+Hotel Singapore Mirpur 10,"Mirpur, Dhaka","BDT 1,903",0,Review score,24,4.8,5.1,7,5,-1,-1,-1
+Your home Away,Sylhet,"BDT 3,322",0,Excellent,5,8.6,8.8,-1,-1,-1,-1,-1
+Hotel Amir's Residence,Dhaka,"BDT 2,326",0,Review score,12,6,6.3,6.4,5,-1,-1,-1
+Hotel Progati Inn Ltd.,Dhaka,"BDT 3,987",0,Review score,16,6.1,5.9,7.3,8.8,-1,-1,-1
+Hotel Green Land,Bāndarban,"BDT 1,772",0,Review score,10,5.1,5.3,7.2,5,-1,-1,-1
+Hotel Grand Lotus,Sylhet,"BDT 1,993",2,Review score,0,0,-1,-1,-1,-1,-1,-1
+HOTEL LAKE CASTLE' Diplomatic Zone,"Gulshan, Dhaka","BDT 8,011",4,Very Good,66,8,7.7,8.2,8.4,7.9,9,8.4
+DAC Peaceful AC King Bed WIFI & 24hr Security,"Uttara, Dhaka","BDT 1,993",0,Review score,2,4,2.5,-1,-1,-1,-1,-1
+Mohammadia Restaurant & Guest House,Dhaka,"BDT 1,329",0,Review score,8,4.8,5.9,5.9,2.5,-1,-1,-1
+Hotel GM Palace,Chittagong,"BDT 1,218",0,Review score,22,3.2,5.2,-1,-1,-1,-1,-1
+Live in Maati,Dhaka,"BDT 2,990",0,Wonderful,1,9,10,7.5,10,-1,-1,-1
+Hotel Regal Palace,Chittagong,"BDT 1,218",1,Review score,15,3.9,5.2,5.5,5.2,5.3,4.2,-1
+Hotel Regal Palace,Chittagong,"BDT 1,218",1,Review score,15,3.9,5.2,5.5,5.2,5.3,4.2,-1
+Lake View Uttara Secured Peaceful AC Near Airport with Free Lift + Car Parking,"Uttara, Dhaka","BDT 3,101",0,Wonderful,2,9,8.8,-1,-1,-1,-1,-1
+Garden Residents,"Uttara, Dhaka","BDT 2,589",3,Good,100,7,7.3,7.5,7.5,7.3,8.2,7.3
+Hotel Amir's Residence,Dhaka,"BDT 2,326",0,Review score,12,6,6.3,6.4,5,-1,-1,-1
+DAC Peaceful AC King Bed WIFI & 24hr Security,"Uttara, Dhaka","BDT 1,993",0,Review score,2,4,2.5,-1,-1,-1,-1,-1
+Muscat Holiday Resort,Cox's Bazar,"BDT 1,661",3,Review score,101,6.4,7.7,7.5,7.4,6.9,7.5,-1
+Prime Park Hotel,Cox's Bazar,"BDT 3,655",3,Good,168,7.3,8.4,7.6,7.9,8,7.8,6.7
+Hotel Belmond City,Chittagong,"BDT 1,218",0,Review score,20,4.8,6,-1,-1,-1,-1,-1
+Hotel Victoria Inn,Dhaka,"BDT 1,866",0,Review score,10,5.8,6.8,-1,-1,-1,-1,-1
+Century Park Residence,"Gulshan, Dhaka","BDT 4,236",4,Review score,61,5.5,5.9,6,5.6,7.9,7,-1
+Ascott The Residence Dhaka,Dhaka,"BDT 9,031",3,Excellent,16,8.6,8.1,9.1,8.8,8.6,9.1,8.1
+Ur Homestay Airport+AC+Secured+Lift+WIFI Uttara,"Uttara, Dhaka","BDT 2,658",0,Review score,9,5,6.7,6.4,6.7,-1,-1,-1
+Memento Residence,"Uttara, Dhaka","BDT 3,190",3,Review score,37,6.7,7.1,7.3,6.9,7.5,8.8,-1
+Dhaka Airport Hotel,"Uttara, Dhaka","BDT 4,485",3,Good,1,7,5,5,5,-1,-1,-1
+La Vista Hotel,Sylhet,"BDT 2,093",3,Review score,29,6.1,6.5,6.3,6.5,6.3,7.9,6.3
+The Zabeer Dhaka,"Uttara, Dhaka","BDT 7,600",3,Good,26,7.8,8.7,8.8,8.1,8.8,-1,-1
+Hotel Royal Blue Residence,"Uttara, Dhaka","BDT 1,783",0,Review score,9,3.4,3.6,5,5,-1,-1,-1
+Asian SR Hotel,Chittagong,"BDT 3,322",2,Review score,14,6.5,7,7.3,7.3,7.9,5,-1
+Hotel Supreme,Sylhet,"BDT 2,163",3,Review score,114,6.5,7.3,7.4,7.1,7.9,7,-1
+Chittagong Apartment Service Banani,"Gulshan, Dhaka","BDT 2,990",2,Review score,6,5.5,5.6,6.3,5,-1,-1,-1
+Ur Homestay Lake Passion,"Uttara, Dhaka","BDT 2,791",0,Good,13,7.2,7.9,7.5,8.7,-1,-1,-1
+Sohbar Wander Camp,Bholāganj,"BDT 1,661",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Platinum Hotel Ltd,"Uttara, Dhaka","BDT 2,891",3,Review score,29,4.2,5.4,5.4,6.5,-1,-1,-1
+Grand Plaza Hotel,"Uttara, Dhaka","BDT 3,876",0,Wonderful,1,9,2.5,-1,-1,-1,-1,-1
+Jatra Shaheb Bari Resort,Ātlora,"BDT 6,180",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Jatra Shaheb Bari Resort,Ātlora,"BDT 6,180",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Grand Faisal,"Uttara, Dhaka","BDT 2,691",0,Good,22,7.4,-1,8.3,8.1,7.7,7.6,7.6
+"Britannia Beach Resort- Inani Beach, Cox'sbazar",Nidānia,"BDT 5,918",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel De Meridian Ltd,"Uttara, Dhaka","BDT 2,549",2,Good,11,7.5,7.5,6.8,7.5,7.5,6.6,8.2
+Praasad Paradise,Cox's Bazar,"BDT 6,423",3,Review score,32,6,6.2,6.2,5.4,8.7,7.5,-1
+The Castle Inn,"Uttara, Dhaka","BDT 6,313",4,Good,31,7.6,7.7,7.6,7.5,7.7,8.3,-1
+Mohammadia Restaurant & Guest House 2,Dhaka,"BDT 1,993",0,Review score,6,6.2,6.7,6.7,7.9,-1,-1,-1
+Hotel Purbani,Dhaka,"BDT 9,414",3,Review score,0,0,-1,-1,-1,-1,-1,-1
+Index Zaira,"Uttara, Dhaka","BDT 3,322",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Mermaid Beach Resort,Dhoāpālong,"BDT 24,586",0,Review score,5,6.4,5,8.5,-1,-1,-1,-1
+Hotel Singapore International,"Mirpur, Dhaka","BDT 1,883",2,Review score,2,3,6.3,2.5,8.8,-1,-1,-1
+Hill Palace Resort,Bāndarban,"BDT 2,104",0,Review score,4,2.3,5.8,-1,-1,-1,-1,-1
+KM Bros Apartments,Sylhet,"BDT 1,993",0,Good,1,7,7.5,10,5,-1,-1,-1
+Sweet Family Studio AC Apartment,Dhaka,"BDT 1,495",0,Exceptional,1,10,10,-1,-1,-1,-1,-1
+Cozy Red Velvete Room,Dhaka,"BDT 1,754",0,Review score,2,4.5,5,6.3,6.3,5,-1,-1
+Crown Palace Residence,"Uttara, Dhaka","BDT 3,708",3,Good,21,7.1,7,8.5,8,7.6,8,8.1
+The Parisian Homestay,Dhaka,"BDT 2,215",0,Good,84,7.3,8.1,7.5,8.8,6.5,-1,-1
+Hotel Royal Palace Pvt Ltd,Dhaka,"BDT 2,368",3,Review score,21,5.7,6.3,6.5,5.9,7.4,-1,-1
+Hotel Highgarden,"Uttara, Dhaka","BDT 6,707",3,Good,27,7.7,8.7,8.6,7.7,8.4,8,-1
+Incredible Home In Chittagong !,Chittagong,"BDT 8,722",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Vista Bay,Cox's Bazar,"BDT 3,101",0,Review score,33,6.3,6.7,7.6,6.3,-1,-1,-1
+Hotel Saint Martin Ltd.,Chittagong,"BDT 5,980",3,Review score,1,3,7.5,2.5,7.5,-1,-1,-1
+Inani Royal Resort,Ināni,"BDT 3,544",3,Review score,6,3.8,4.2,4.5,4.6,7.5,7.5,-1
+Full Furnished apartment Dhaka,Dhaka,"BDT 3,212",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Private Room in Bashundhara near Airport,Dhaka,"BDT 2,071",0,Good,2,7.5,7.5,-1,-1,-1,-1,-1
+Private Room in Bashundhara near Airport,Dhaka,"BDT 1,554",0,Good,2,7.5,7.5,-1,-1,-1,-1,-1
+eshikhon,Dhaka,"BDT 1,107",0,Review score,3,6.3,4.2,-1,-1,-1,-1,-1
+Hotel Padma Residential,Dhaka,"BDT 1,866",0,Review score,5,6.8,7,-1,-1,-1,-1,-1
+Greenville apartment,Dhaka,"BDT 3,012",0,Review score,2,6,8.8,-1,-1,-1,-1,-1
+Marry House,Dhaka,"BDT 2,165",0,Review score,14,4.7,7.1,-1,-1,-1,-1,-1
+Hotel Crown City,Chittagong,"BDT 2,547",0,Review score,17,5.6,8,-1,-1,-1,-1,-1
+White Orchid,Cox's Bazar,"BDT 4,098",3,Review score,52,6.7,7.4,7.5,6.8,7.5,6,-1
+Sea Front Resort,Cox's Bazar,"BDT 2,215",0,Review score,22,5.4,6.1,-1,-1,-1,-1,-1
+Hotel Olio Dream Heaven Panthapath,Dhaka,"BDT 3,156",2,Review score,8,3.4,3.8,3.8,6.6,-1,-1,-1
+Marino Hotel - Best near Airport,"Uttara, Dhaka","BDT 5,537",3,Good,27,7,7.1,7.3,7.3,8,7.2,-1
+Exotica Sampan,Cox's Bazar,"BDT 6,645",0,Review score,31,6.7,8.7,-1,-1,-1,-1,-1
+Beach Queen Resort,Cox's Bazar,"BDT 4,430",3,Review score,16,6.4,7.3,6.8,6.8,-1,-1,-1
+Saanha Windtrip,Sylhet,"BDT 2,769",0,Good,26,7.3,7.6,7.5,7.6,7.3,9.2,-1
+Ashiana Serviced Apartment,Sylhet,"BDT 4,098",0,Wonderful,11,9.4,9.3,9.8,7.5,-1,-1,-1
+Hotel green garden old salata Qatar,Dhaka,"BDT 3,322",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Apartment Next to Dhaka Airport Private Room,Dhaka,"BDT 2,420",0,Review score,4,5.5,6.3,-1,-1,-1,-1,-1
+Karabi Lodge,Dhaka,"BDT 5,050",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Artsthetic Home,Dhaka,"BDT 2,049",0,Review score,1,5,7.5,-1,-1,-1,-1,-1
+Take Rest (Lovely Room),Dhaka,"BDT 2,193",0,Review score,1,5,5,5,2.5,7.5,-1,-1
+Royal Park Residential Hotel,Chittagong,"BDT 2,436",0,Review score,27,4.5,4.8,8,3.2,-1,-1,-1
+Hotel Sea Uttara,Cox's Bazar,"BDT 3,544",0,Good,22,7,8.3,-1,-1,-1,-1,-1
+Studio apartment nearby Dhaka airport,Dhaka,"BDT 2,769",0,Review score,3,6.3,7.5,-1,-1,-1,-1,-1
+Bashundhara Cottage,Dhaka,"BDT 2,243",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Take Rest (Service Apartment),Dhaka,"BDT 2,073",0,Review score,1,4,2.5,5,5,7.5,-1,-1
+"Bashundhara R/A, A-8, Road 2, Block D",Dhaka,"BDT 12,625",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+"Bashundhara R/A, A-8, Road 2, Block D",Dhaka,"BDT 12,625",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Mermaid Beach Resort,Dhoāpālong,"BDT 24,586",0,Review score,5,6.4,5,8.5,-1,-1,-1,-1
+KM Bros Apartments,Sylhet,"BDT 1,993",0,Good,1,7,7.5,10,5,-1,-1,-1
+Cozy Red Velvete Room,Dhaka,"BDT 1,754",0,Review score,2,4.5,5,6.3,6.3,5,-1,-1
+Hotel Highgarden,"Uttara, Dhaka","BDT 5,701",3,Good,27,7.7,8.7,8.6,7.7,8.4,8,-1
+Rajanigandha Family Suites,"Uttara, Dhaka","BDT 5,537",0,Very Good,26,8.1,8,8.1,7.8,8,8.8,-1
+Hotel Razmoni Isha Kha International,Dhaka,"BDT 5,980",4,Review score,2,1,8.8,2.5,10,-1,-1,-1
+Hotel Singpore International (Residence),Dhaka,"BDT 1,993",0,Review score,5,6.4,6.5,-1,-1,-1,-1,-1
+Hotel Olio Dream Heaven Panthapath,Dhaka,"BDT 3,156",2,Review score,8,3.4,3.8,3.8,6.6,-1,-1,-1
+Marino Hotel - Best near Airport,"Uttara, Dhaka","BDT 5,537",3,Good,27,7,7.1,7.3,7.3,8,7.2,-1
+Exotica Sampan,Cox's Bazar,"BDT 6,091",0,Review score,31,6.7,8.7,-1,-1,-1,-1,-1
+Sunapur Mini Resort Sylhet,Sylhet,BDT 997,0,Review score,2,6,7.5,6.3,-1,-1,-1,-1
+Apartment Next to Dhaka Airport Private Room,Dhaka,"BDT 2,420",0,Review score,4,5.5,6.3,-1,-1,-1,-1,-1
+Aristocrat Inn,"Gulshan, Dhaka","BDT 5,261",3,Good,18,7.8,8.1,7.8,7.9,8.5,8.1,-1
+Gulshan Place 65,"Gulshan, Dhaka","BDT 3,357",0,Review score,5,3.4,6.3,-1,-1,-1,-1,-1
+Dhaka Uttara Guest House Service,Ābdullāpur,"BDT 7,863",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hosen monjil guest house,Jaflang,"BDT 1,993",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+CAS (Guest House),"Gulshan, Dhaka","BDT 2,769",0,Review score,5,3.2,5.6,-1,-1,-1,-1,-1
+Appayan Guest House Baridhara,Dhaka,"BDT 2,326",2,Good,62,7.4,7.8,7.9,8.1,7.9,-1,-1
+Hotel The Sylhet Int.,Dhaka,"BDT 1,772",2,Wonderful,3,9,7.5,7.5,8.3,8.3,-1,-1
+Stunning 1-Bed Apartment in Dhaka close to airport,Dhaka,"BDT 2,604",0,Review score,1,1,2.5,2.5,2.5,-1,-1,-1
+Daily Rent Room in Mirpur,"Mirpur, Dhaka","BDT 2,215",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+White Rose Suites Ltd,"Uttara, Dhaka","BDT 2,719",1,Review score,30,6.4,7,6.7,7.8,-1,-1,-1
+Laguna Beach Hotel & Resort,Cox's Bazar,"BDT 2,326",3,Review score,89,5.7,6.2,6.6,6.4,7.8,5.9,-1
+Take Rest (Private Room),Dhaka,"BDT 1,993",0,Review score,3,4.7,5,5.8,-1,-1,-1,-1
+Take Rest (Private Room),Dhaka,"BDT 1,993",0,Review score,3,4.7,5,5.8,-1,-1,-1,-1
+Zannat Properties,Dhaka,"BDT 3,322",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Indropuri International,Dhaka,"BDT 2,915",0,Review score,2,2,3.8,-1,-1,-1,-1,-1
+Hotel Shahin(residential),Dhaka,"BDT 2,630",0,Exceptional,1,10,10,10,-1,-1,-1,-1
+Bashundhara Bilash,Dhaka,"BDT 4,386",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Shopnonir Hotel & Restaurant,Chittagong,"BDT 1,993",0,Review score,3,4,6.7,-1,-1,-1,-1,-1
+Cutie Home,Dhaka,"BDT 3,101",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Eastern House - Peaceful Living at Diplomatic Zone,"Gulshan, Dhaka","BDT 4,651",3,Review score,19,6.5,7,7,6.2,8.8,7.5,-1
+Bashati Bay Resort,Cox's Bazar,"BDT 1,661",3,Review score,10,3.5,5.6,4.4,7.2,-1,-1,-1
+RUMANAS RESIDENT,Dhaka,"BDT 4,984",0,Wonderful,1,9,10,-1,-1,-1,-1,-1
+Guest Room near Stadium and Heart Foundation in Mirpur,"Mirpur, Dhaka","BDT 1,683",0,Review score,4,6.5,6.7,-1,-1,-1,-1,-1
+Family Short Stay Room in Mirpur,"Mirpur, Dhaka","BDT 1,554",0,Review score,3,6.7,7.5,-1,-1,-1,-1,-1
+PULSE Social Guest House,Cox's Bazar,BDT 997,0,Review score,3,2.7,3.3,-1,-1,-1,-1,-1
+BASHUNDHARA BILASH,Dhaka,"BDT 2,293",0,Review score,1,1,2.5,-1,-1,-1,-1,-1
+Grand Palace Hotel & Resorts Sylhet,Sylhet,"BDT 11,629",3,Excellent,13,8.8,8.8,9.2,8.7,8.1,-1,-1
+Monas Palace.,Sylhet,"BDT 10,521",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Shahin Residential Jatrabari,Dhaka,"BDT 1,661",0,Review score,5,4.8,6.5,-1,-1,-1,-1,-1
+White Palace,Dhaka,"BDT 3,954",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+"HOTEL LIVING INTERNATIONAL, ASHKONA",Dhaka,"BDT 2,326",3,Review score,7,3.4,3.6,3.2,5,-1,-1,-1
+Ishrat's serviced apartment,Dhaka,"BDT 3,411",0,Review score,5,4.8,5,-1,-1,-1,-1,-1
+UH Airway Beautiful 2 Bedroom Apartment At Uttara,"Uttara, Dhaka","BDT 2,481",0,Review score,1,1,2.5,-1,-1,-1,-1,-1
+Hotel Silver Bay,Cox's Bazar,"BDT 2,436",0,Review score,27,5.9,6.3,7.5,7.5,-1,-1,-1
+White House Hotel - City center,Dhaka,"BDT 3,987",3,Review score,7,6.1,5.8,6.3,6.3,7.5,10,-1
+Hibiscus Apartments,Dhaka,"BDT 5,482",0,Exceptional,1,10,10,10,10,-1,-1,-1
+Your Home Away B&B,Sylhet,"BDT 1,218",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hibiscus Apartments,Dhaka,"BDT 5,482",0,Exceptional,1,10,10,10,10,-1,-1,-1
+Hotel Nice Look,"Uttara, Dhaka","BDT 2,824",3,Review score,0,0,-1,-1,-1,-1,-1,-1
+Space Hotel and Apartments,"Gulshan, Dhaka","BDT 16,059",4,Very Good,6,8.2,9.2,7.9,10,-1,-1,-1
+Star Home,Dhaka,"BDT 4,236",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+RK Guest Home,Dhaka,"BDT 2,658",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Beach Park,Cox's Bazar,"BDT 3,876",2,Review score,26,5.3,7,6.3,7.8,-1,-1,-1
+Dhaka Comfort Inn & Suite,"Uttara, Dhaka","BDT 2,769",0,Review score,12,4.9,4.6,6.7,2.5,-1,-1,-1
+Hotel Sea Queen,Cox's Bazar,"BDT 1,329",1,Review score,2,1,5,5,5,-1,-1,-1
+Hotel Royal Avenue,Chittagong,"BDT 2,990",0,Review score,1,2,7.5,-1,-1,-1,-1,-1
+3 bedroom fully furnished Gulshan apartment,"Gulshan, Dhaka","BDT 6,645",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Choudhury Duplex,Sylhet,"BDT 2,442",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Lovely 3BHK Airport Close Furnished Family Apartment,"Uttara, Dhaka","BDT 1,861",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Quality Home,Cox's Bazar,"BDT 2,769",1,Review score,2,3.5,7.5,7.5,7.5,7.5,-1,-1
+Golpata Bed & Breakfast,Dhaka,"BDT 3,322",0,Exceptional,1,10,7.5,-1,-1,-1,-1,-1
+Spacious Penthouse in heart of city. By GEC circle,Chittagong,"BDT 4,146",0,Very Good,3,8,8.3,9.2,8.3,-1,-1,-1
+Smart Stay,Dhaka,"BDT 3,544",0,Review score,1,1,-1,-1,-1,-1,-1,-1
+Fakhruddin Villa,"Mirpur, Dhaka","BDT 1,329",0,Review score,3,2,2.5,2.5,2.5,-1,-1,-1
+Hotel Shams Plaza,Cox's Bazar,"BDT 2,769",0,Review score,9,3.2,4.2,6.9,5,-1,-1,-1
+Baridhara Guest House,Dhaka,"BDT 2,326",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+*NEW BUILD* Luxury Holiday Home,Sylhet,"BDT 3,987",0,Exceptional,1,10,10,10,-1,-1,-1,-1
+Ur Homestay Luxury,"Uttara, Dhaka","BDT 3,987",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Calm & Cozy Guest Room with Free Breakfast-Parking,"Mirpur, Dhaka","BDT 4,430",0,Review score,3,5.3,6.3,-1,-1,-1,-1,-1
+Suite Sadaf,Cox's Bazar,"BDT 4,430",3,Review score,13,5.6,6.2,6.3,7.3,-1,-1,-1
+Tourist Home,"Uttara, Dhaka","BDT 2,879",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Kh property,Dhaka,"BDT 3,101",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Kh property,Dhaka,"BDT 3,101",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Dhaka Comfort Inn & Suite,"Uttara, Dhaka","BDT 2,769",0,Review score,12,4.9,4.6,6.7,2.5,-1,-1,-1
+Impressa on Shah,Dhaka,"BDT 4,984",0,Very Good,4,8.5,8.8,8.8,7.5,-1,-1,-1
+3 bedroom fully furnished Gulshan apartment,"Gulshan, Dhaka","BDT 6,645",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Quality Home,Cox's Bazar,"BDT 2,769",1,Review score,2,3.5,7.5,7.5,7.5,7.5,-1,-1
+Fakhruddin Villa,"Mirpur, Dhaka","BDT 1,329",0,Review score,3,2,2.5,2.5,2.5,-1,-1,-1
+University Boys Hostel,Dhaka,"BDT 2,990",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Cox Rotana,Cox's Bazar,"BDT 3,101",3,Review score,6,2.8,5,4,4.5,-1,-1,-1
+Hotel Metro International,Sylhet,"BDT 4,984",3,Review score,32,6.9,7.5,7.7,7.3,7.6,5,-1
+Delowar Paradise,Cox's Bazar,"BDT 4,430",0,Review score,7,3.9,6.1,-1,-1,-1,-1,-1
+Meridian Hotel & Restaurant Chattogram,Chittagong,"BDT 6,280",3,Review score,0,0,-1,-1,-1,-1,-1,-1
+Grand Park Hotel,Chittagong,"BDT 3,987",0,Review score,22,5.4,5.5,8,6.3,-1,-1,-1
+Hotel Swiss Garden International,Chittagong,"BDT 2,215",1,Review score,6,5.7,7.5,6.7,5.8,-1,-1,-1
+CHL Serviced Apartments,Dhaka,"BDT 5,831",0,Review score,2,3.5,5,-1,-1,-1,-1,-1
+Hotel Khan View,Sylhet,"BDT 4,707",3,Review score,0,0,-1,-1,-1,-1,-1,-1
+Sea View Flat Cox's Bazar,Kelātali,"BDT 7,863",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Cheap Private Room in Mirpur,Dhaka,"BDT 1,701",0,Review score,3,3,3.3,3.3,-1,-1,-1,-1
+Elite Cox's Resort,Cox's Bazar,"BDT 1,550",0,Review score,26,6.6,6.9,-1,-1,-1,-1,-1
+Cox Sea View Apartment,Kelātali,"BDT 7,370",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Rose Haven Residential,Dhaka,"BDT 1,661",0,Review score,5,3.8,7,-1,-1,-1,-1,-1
+Ocean View,Cox's Bazar,"BDT 3,322",0,Review score,3,3.3,5.8,-1,-1,-1,-1,-1
+Angel Resort & Restaurant,Cox's Bazar,"BDT 3,322",0,Review score,6,6.5,6.7,-1,-1,-1,-1,-1
+Heritage BR,Chittagong,"BDT 2,436",0,Review score,2,1,3.8,-1,-1,-1,-1,-1
+Green House,"Uttara, Dhaka","BDT 3,765",3,Review score,1,3,5,2.5,2.5,7.5,-1,-1
+King’s palace,Dhaka,"BDT 2,315",0,Review score,1,1,2.5,-1,-1,-1,-1,-1
+King’s palace,Dhaka,"BDT 2,315",0,Review score,1,1,2.5,-1,-1,-1,-1,-1
+"Shopno chura, addarmore,Aftabnag, Dhaka 1212",Dhaka,"BDT 6,025",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Maple Service Apartment,Sylhet,"BDT 7,974",3,Review score,0,0,-1,-1,-1,-1,-1,-1
+Khondoker American Villa,Lālabāzār,"BDT 3,907",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+"Apartment in Bashundhara, Dhaka, Belaneel",Joār Sāhāra,"BDT 3,876",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Grand Beach Resort,Cox's Bazar,"BDT 1,661",0,Review score,33,4.7,5.2,6.3,5,-1,-1,-1
+SALAMPALACE,Sylhet,"BDT 8,771",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Arcane,Cox's Bazar,"BDT 3,101",0,Review score,7,3.6,5.4,5.7,-1,-1,-1,-1
+Star Residence,"Uttara, Dhaka","BDT 4,430",3,Review score,0,0,-1,-1,-1,-1,-1,-1
+THE AVENUE HOTEL & SUITES,Chittagong,"BDT 7,309",3,Review score,18,5.6,6.5,7.2,5.3,7.1,7,-1
+Maui Resort,Cox's Bazar,"BDT 3,876",3,Review score,7,6.3,6.4,6.1,7.5,-1,-1,-1
+The Koitorinir,Sylhet,"BDT 4,679",0,Exceptional,1,10,10,-1,-1,-1,-1,-1
+Quality Inn Dhaka,"Gulshan, Dhaka","BDT 3,667",3,Review score,28,5.3,6.4,6.6,6.3,5.7,7.6,5.8
+Hotel The Grand Sandy,Cox's Bazar,"BDT 3,544",0,Good,1,7,5,-1,-1,-1,-1,-1
+Fercem Inn And Suites,Cox's Bazar,"BDT 3,489",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Khurshed Express Residential,Dhaka,"BDT 2,547",2,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Surma Residential,Dhaka,"BDT 1,440",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Marine Plaza,Cox's Bazar,"BDT 2,215",0,Review score,5,3.4,6,7.5,5,-1,-1,-1
+Royal Palm Hotel,Sylhet,"BDT 3,544",0,Review score,33,6.4,7.2,8.1,7.5,-1,-1,-1
+Palm Tree Business Hotel-孟加拉椰林国际商务酒店,"Gulshan, Dhaka","BDT 12,404",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Shejuti Moon Garden,Dhaka,"BDT 2,392",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+3 Bedroom Luxurious Apartment at Diabari,Dhaka,"BDT 5,261",0,Review score,3,5.3,2.5,-1,-1,-1,-1,-1
+Hotel Grand Amir International,Dhaka,"BDT 3,295",2,Review score,0,0,-1,-1,-1,-1,-1,-1
+Home Stay Bashundhara,Dhaka,"BDT 2,769",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Daily Room Rent near Stadium in Mirpur 2,"Mirpur, Dhaka","BDT 2,436",0,Exceptional,1,10,10,-1,-1,-1,-1,-1
+Daily Room Rent near Stadium in Mirpur 2,"Mirpur, Dhaka","BDT 2,436",0,Exceptional,1,10,10,-1,-1,-1,-1,-1
+Hotel Zam Zam International,Dhaka,"BDT 8,373",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Bashundhara Cottage,Dhaka,"BDT 3,987",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Sunset Bay Hotel,Cox's Bazar,"BDT 3,101",0,Review score,7,6,5.8,-1,-1,-1,-1,-1
+"3-Bedroom Apartment in Lalmatia, Mohammedpur",Dhaka,"BDT 6,645",0,Review score,3,3.7,-1,-1,-1,-1,-1,-1
+Bay's Brookwood,"Gulshan, Dhaka","BDT 7,974",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hossen Monjil Block F Road 21 Bashundhara,Dhaka,"BDT 1,904",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Naioree Studio Apartment,Cox's Bazar,"BDT 2,215",0,Review score,1,1,2.5,-1,-1,-1,-1,-1
+Sea Breeze Resort,Cox's Bazar,"BDT 3,533",3,Review score,3,6.3,7.5,7.5,7.5,-1,-1,-1
+Hotel Opera Ocean,Cox's Bazar,"BDT 3,101",0,Review score,6,4.7,7.5,-1,-1,-1,-1,-1
+Bashundhara Bilash,Dhaka,"BDT 2,049",0,Review score,2,5.5,2.5,-1,-1,-1,-1,-1
+Urban Retreat,Dhaka,"BDT 2,481",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Givenci Farmgate,Dhaka,"BDT 2,802",0,Review score,2,4,7.5,-1,-1,-1,-1,-1
+Shopno Bilash Holiday Suites,Cox's Bazar,"BDT 5,537",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Sinbad Experience Resort & Beyond,Jaliapāra,"BDT 8,085",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Nazimgarh Garden Resort,Sylhet,"BDT 13,068",4,Review score,0,0,-1,-1,-1,-1,-1,-1
+Dwip Kutir Resort Saintmartin,Jaliapāra,"BDT 3,655",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Mirabazar,Sylhet,"BDT 8,306",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Rose Garden,Chittagong,"BDT 2,711",3,Review score,10,3.5,4.3,4.5,4.3,5.3,5,-1
+Monem's house,Dhaka,"BDT 1,329",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Mohammadia Guest House,Cox's Bazar,"BDT 2,215",0,Review score,5,1.8,6.9,-1,-1,-1,-1,-1
+"Airly, bright secured flat, Zigatola, Dhanmondi",Dhaka,"BDT 3,939",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Blue Moon,Chittagong,"BDT 2,990",3,Review score,4,4.8,5.6,5.8,6.7,-1,-1,-1
+Service Apartment,Banani Model Town,"BDT 6,707",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Beautiful 3 -Bed Apartment in Uttara Dhaka,"Uttara, Dhaka","BDT 11,075",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Beautiful 3 -Bed Apartment in Uttara Dhaka,"Uttara, Dhaka","BDT 11,075",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Airport Family Suites AC Lift 24*7 Security at Uttara,"Uttara, Dhaka","BDT 6,534",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+One bed fully furnished service apartment in bashundhara,Dhaka,"BDT 3,544",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Opera Ocean,Cox's Bazar,"BDT 3,544",0,Review score,6,4.7,7.5,-1,-1,-1,-1,-1
+Nazimgarh Garden Resort,Sylhet,"BDT 13,068",4,Review score,0,0,-1,-1,-1,-1,-1,-1
+Realx,Dhaka,"BDT 1,661",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Elaf International,Cox's Bazar,"BDT 3,101",3,Review score,8,5.5,6.8,6.4,6.1,-1,-1,-1
+Hyperion Sea View,Cox's Bazar,"BDT 6,091",0,Review score,4,2.8,3.8,4.4,-1,-1,-1,-1
+Lemon Tree,Cox's Bazar,"BDT 2,769",0,Review score,4,5.3,5.6,-1,-1,-1,-1,-1
+Dream Palace Resort,Cox's Bazar,"BDT 3,101",0,Exceptional,1,10,10,-1,-1,-1,-1,-1
+Yahiya,Sylhet,"BDT 5,582",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Samudro Bari,Cox's Bazar,"BDT 6,168",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Resort Islandia,Cox's Bazar,"BDT 4,485",1,Review score,0,0,-1,-1,-1,-1,-1,-1
+Sandy Beach Resort & Restaurant,Cox's Bazar,"BDT 4,430",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel South Beach,Cox's Bazar,"BDT 3,777",3,Review score,4,3,3.3,5.6,4.4,6.3,-1,-1
+Shamuda Waves Resort,Kelātali,"BDT 3,876",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Daily Rent in Bashundara,Dhaka,"BDT 2,769",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Sheikh Vila,Sylhet,"BDT 2,215",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Western Planet,"Uttara, Dhaka","BDT 2,769",0,Review score,5,4.8,6.9,-1,-1,-1,-1,-1
+3 Bedrooms flat Lalmatia Behind Dhanmondi 27,Dhaka,"BDT 5,931",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Guest House,Dhaka,"BDT 33,225",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Kharpara mirabazar,Sylhet,"BDT 1,772",3,Review score,0,0,-1,-1,-1,-1,-1,-1
+Hotel Oasis International,Cox's Bazar,"BDT 3,544",0,Review score,5,3.6,6,-1,-1,-1,-1,-1
+Hotel Esplanade,Cox's Bazar,"BDT 3,322",0,Review score,0,0,-1,-1,-1,-1,-1,-1
+Cox Hill Tower,Cox's Bazar,"BDT 4,264",3,Review score,4,3.5,3.8,3.1,5,6.9,-1,-1

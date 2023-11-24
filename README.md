@@ -26,6 +26,7 @@ python scraper_for_properties_in_bangladesh.py
 6. You will get a file named `properties_and_hotels_bd.csv` containing all the scraped fields
 Alternatively check our scraped data here: https://github.com/lubnaonline228/hotels_and_properties_in_bd/blob/main/properties_and_hotels_bd.csv
 
+## Analytics
 Tableau public view: <br>
 https://public.tableau.com/app/profile/nahid.akhtar/viz/HotelandPropertyDatafromBooking_com/Dashboard2?publish=yes
 https://public.tableau.com/app/profile/nahid.akhtar/viz/HotelandPropertyDatafromBooking_com/Dashboard1?publish=yes

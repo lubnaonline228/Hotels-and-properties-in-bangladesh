@@ -17,6 +17,14 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+4. Download Chrome Webdriver from https://chromedriver.chromium.org/downloads
+   
+5. Run the scraper:
+```bash
+python scraper_for_properties_in_bangladesh.py
+```
+6. You will get a file named `properties_and_hotels_bd.csv` containing all the scraped fields
+Alternatively check our scraped data here: https://github.com/lubnaonline228/hotels_and_properties_in_bd/blob/main/properties_and_hotels_bd.csv
 
 Tableau public view: <br>
 https://public.tableau.com/app/profile/nahid.akhtar/viz/HotelandPropertyDatafromBooking_com/Dashboard2?publish=yes

@@ -50,20 +50,35 @@ The second dashboard displays other relevant analytics, like 'average price by c
 
 ## Findings and Observations from the Dashboards
 1. Dhaka, Sylhet, and Cox's Bazar have the most hotels and properties listed on Booking.com
+   
 ![2023-12-17_16-36-39](https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/9f1c8ef9-ec55-48fb-91c0-e462421ae819)
 
 2. There is fairly good correlation between rating and average price, even though there are some cases where average price of a high-rated hotel is less. This could probably be due to discounts provided by certain hotels.
+ 
 ![2023-12-17_16-39-17](https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/94d8c8a6-becd-4e36-bc5b-e25ac84826f7)
 
 3. Dhaka has the most expensive 4-star hotels, since the average price of 4-star hotels in Dhaka are the highest. Second and third most expensive are Jessore and Chittagong respectively.
+
 ![2023-12-17_16-41-05](https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/27a01627-b69d-4e34-9271-2a1ec23b43c8)
 
 4. There are no 5-star hotels in Rajshahi. The average price of a 4-star hotel in Rajshahi is BDT 4,233.
+   
+![2023-12-17_17-04-26](https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/20bbfe32-0952-49b2-8f6e-eb64f5c88d11)
 
 5. Sylhet, Dhaka, and Khulna have the highest rating on Booking.com (all have an average rating above 9 out of 10)
+   
+![2023-12-17_17-08-01](https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/e040a06c-c753-427a-ab49-bbaadd0f6e58)
+
 6. You can find a 4-star hotel in the price range of BDT 3,000 to 5,000 in Khulna, Rajshahi, and Sylhet.
+
+![2023-12-17_17-12-30](https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/956ec4c8-c8fe-4f06-8437-92372d84ad2b)
+
 7. The only Bangladeshi Hotel that got an 'Exceptional' rating on Booking.com is in Sylhet, and it has an average price of BDT 4,493.
+
 8. Hotels of Bandarban have the lowest public rating.
+
+![2023-12-17_17-15-20](https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/265c7398-0084-4198-9cbe-6eb71cfd8661)
+
 
 ## Build from Sources and Run the Selenium Scraper
 1. Clone the repo:

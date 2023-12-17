@@ -13,12 +13,12 @@ At the end of the scraping process I ended up with data for 551 hotels and prope
 6. Number of reviews from guests
 7. Total rating given by guests (out of 10)
 8. Individual ratings given by guests. This included ratings for:
-     Staff (out of 10)
-     Facilities (out of 10)
-     Cleanliness (out of 10)
-     Comfort (out of 10)
-     Value for money (out of 10)
-     Location (out of 10)
+     Staff (out of 10) <br>
+     Facilities (out of 10) <br>
+     Cleanliness (out of 10) <br>
+     Comfort (out of 10) <br>
+     Value for money (out of 10) <br>
+     Location (out of 10) <br>
 
 The code for the scraper is in [this link](https://github.com/lubnaonline228/hotels_and_properties_in_bd/blob/main/scraper_for_properties_in_bangladesh.py).
 

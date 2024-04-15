@@ -53,7 +53,7 @@ https://public.tableau.com/app/profile/nahid.akhtar/viz/HotelandPropertyDatafrom
 
 Here, the first dashboard displays a data summary by City. All the records are linked to the first bar chart, so you can easily filter the entire dashboard by city, by selecting the required cities from the 'Number of hotels by city' bar chart.
 <br><br>
-<img src="https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/dfa76241-8a26-42a4-a2f8-b0483c738ec9" width="800" height="300">
+<img src="https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/dfa76241-8a26-42a4-a2f8-b0483c738ec9" width="800" height="400">
 
 The second dashboard displays other relevant analytics, like 'average price by city and star rating', as well as 'highest rating by city'.
 <br><br>
@@ -61,8 +61,8 @@ The second dashboard displays other relevant analytics, like 'average price by c
 
 ## Findings and Observations from the Dashboards
 1. Dhaka, Sylhet, and Cox's Bazar have the most hotels and properties listed on Booking.com
-   
-![2023-12-17_16-36-39](https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/9f1c8ef9-ec55-48fb-91c0-e462421ae819)
+<br><br>
+<img src="https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/dfa76241-8a26-42a4-a2f8-b0483c738ec9" width="800" height="400">
 
 2. There is fairly good correlation between rating and average price, even though there are some cases where average price of a high-rated hotel is less. This could probably be due to discounts provided by certain hotels.
  

@@ -88,8 +88,8 @@ The second dashboard displays other relevant analytics, like 'average price by c
 7. The only Bangladeshi Hotel that got an 'Exceptional' rating on Booking.com is in Sylhet, and it has an average price of BDT 4,493.
 
 8. Hotels of Bandarban have the lowest public rating.
-
-![2023-12-17_17-15-20](https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/265c7398-0084-4198-9cbe-6eb71cfd8661)
+<br><br>
+<img src="https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/265c7398-0084-4198-9cbe-6eb71cfd8661" width="500" height="600">
 
 
 ## Build from Sources and Run the Selenium Scraper

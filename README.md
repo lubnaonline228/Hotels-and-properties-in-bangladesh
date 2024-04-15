@@ -70,7 +70,7 @@ The second dashboard displays other relevant analytics, like 'average price by c
 
 3. Dhaka has the most expensive 4-star hotels, since the average price of 4-star hotels in Dhaka are the highest. Second and third most expensive are Jessore and Chittagong respectively.
 <br><br>
-<img src="https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/27a01627-b69d-4e34-9271-2a1ec23b43c8" width="500" height="400">
+<img src="https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/27a01627-b69d-4e34-9271-2a1ec23b43c8" width="650" height="400">
 
 4. There are no 5-star hotels in Rajshahi. The average price of a 4-star hotel in Rajshahi is BDT 4,233.
    

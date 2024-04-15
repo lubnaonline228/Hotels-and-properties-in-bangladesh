@@ -53,20 +53,20 @@ https://public.tableau.com/app/profile/nahid.akhtar/viz/HotelandPropertyDatafrom
 
 Here, the first dashboard displays a data summary by City. All the records are linked to the first bar chart, so you can easily filter the entire dashboard by city, by selecting the required cities from the 'Number of hotels by city' bar chart.
 <br><br>
-<img src="https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/dfa76241-8a26-42a4-a2f8-b0483c738ec9" width="800" height="400">
+<img src="https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/dfa76241-8a26-42a4-a2f8-b0483c738ec9" width="600" height="400">
 
 The second dashboard displays other relevant analytics, like 'average price by city and star rating', as well as 'highest rating by city'.
 <br><br>
-<img src="https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/a8e4940b-e86f-4e58-b2f0-90ee0840903c" width="800" height="400">
+<img src="https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/a8e4940b-e86f-4e58-b2f0-90ee0840903c" width="600" height="400">
 
 ## Findings and Observations from the Dashboards
 1. Dhaka, Sylhet, and Cox's Bazar have the most hotels and properties listed on Booking.com
 <br><br>
-<img src="https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/dfa76241-8a26-42a4-a2f8-b0483c738ec9" width="800" height="300">
+<img src="https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/dfa76241-8a26-42a4-a2f8-b0483c738ec9" width="600" height="300">
 
 2. There is fairly good correlation between rating and average price, even though there are some cases where average price of a high-rated hotel is less. This could probably be due to discounts provided by certain hotels.
 <br><br>
-<img src="https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/94d8c8a6-becd-4e36-bc5b-e25ac84826f7" width="800" height="300">
+<img src="https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/94d8c8a6-becd-4e36-bc5b-e25ac84826f7" width="600" height="400">
 
 3. Dhaka has the most expensive 4-star hotels, since the average price of 4-star hotels in Dhaka are the highest. Second and third most expensive are Jessore and Chittagong respectively.
 

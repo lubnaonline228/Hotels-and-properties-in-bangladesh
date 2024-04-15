@@ -1,8 +1,14 @@
-# hotels_and_properties_in_bd
+# Hotels and properties in Bangladesh
 This repository summarizes data collected about hotels and properties of Bangladesh as listed in the Booking.com website
+
+The dashboard has been created on the Tableau application. Click [HERE](https://public.tableau.com/authoring/CitiesbyStarRating/Sheet3#1) to view the dashboard.
 
 ## Problem Statement
 The goal of this project is to gather information about hotels and properties of Bangladesh listed in the [Booking.com website](https://www.booking.com/searchresults.html?ss=Bangladesh&ssne=Bangladesh&ssne_untouched=Bangladesh&aid=304142&lang=en-us&sb=1&src_elem=sb&src=searchresults&dest_id=18&dest_type=country&ltfd=5%3A1%3A11-2023_12-2023_1-2024%3A1%3A&group_adults=2&no_rooms=1&group_children=0)
+
+## Data Scraping
+
+The code for the scraper is in [this link](https://github.com/lubnaonline228/hotels_and_properties_in_bd/blob/main/scraper_for_properties_in_bangladesh.py).
 
 At the end of the scraping process I ended up with data for 551 hotels and properties. These were the fields that I extracted: 
 1. Name of property
@@ -20,9 +26,7 @@ At the end of the scraping process I ended up with data for 551 hotels and prope
      Value for money (out of 10) <br>
      Location (out of 10) <br>
 
-
-
-The code for the scraper is in [this link](https://github.com/lubnaonline228/hotels_and_properties_in_bd/blob/main/scraper_for_properties_in_bangladesh.py).
+## Data Wrangling / Data Cleaning
 
 After scraping the relevant data, I used a separate code to process, transform, and clean the dataset, so it can be used for further analysis.  
 
@@ -30,7 +34,10 @@ The code for the data cleaning is in [this link](https://colab.research.google.c
 
 After running this code, you should get a file named `cleaned_dataset_properties_and_hotels.csv`. Alternatively you can get this dataset from [here](https://github.com/lubnaonline228/hotels_and_properties_in_bd/blob/main/cleaned_dataset_properties_and_hotels.csv).
 
+## Data Analytics
+
 Finally, I used the scraped and cleaned dataset to understand and analyze the data using the Tableau Dashboard. Here are the questions that I considered:
+
 1. Which 3 cities have the most hotels and properties listed on Booking.com?
 2. Is there a correlation between rating and the average price of hotels?
 3. Which city has the most expensive 4-star hotels?
@@ -53,7 +60,7 @@ The second dashboard displays other relevant analytics, like 'average price by c
 ## Findings and Observations from the Dashboards
 1. Dhaka, Sylhet, and Cox's Bazar have the most hotels and properties listed on Booking.com
    
-![2023-12-17_16-36-39](https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/9f1c8ef9-ec55-48fb-91c0-e462421ae819)
+![2023-12-17_16-36-39](https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/9f1c8ef9-ec55-48fb-91c0-e462421ae819 width="100" height="100")
 
 2. There is fairly good correlation between rating and average price, even though there are some cases where average price of a high-rated hotel is less. This could probably be due to discounts provided by certain hotels.
  

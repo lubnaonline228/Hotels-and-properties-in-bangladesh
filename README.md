@@ -60,7 +60,7 @@ The second dashboard displays other relevant analytics, like 'average price by c
 ## Findings and Observations from the Dashboards
 1. Dhaka, Sylhet, and Cox's Bazar have the most hotels and properties listed on Booking.com
    
-![2023-12-17_16-36-39](https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/9f1c8ef9-ec55-48fb-91c0-e462421ae819 width="100" height="100")
+![2023-12-17_16-36-39](https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/9f1c8ef9-ec55-48fb-91c0-e462421ae819)
 
 2. There is fairly good correlation between rating and average price, even though there are some cases where average price of a high-rated hotel is less. This could probably be due to discounts provided by certain hotels.
  

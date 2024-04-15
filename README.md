@@ -1,5 +1,5 @@
 # hotels_and_properties_in_bd
-This repository has been created as a part of the Capstone Project work submission for the Dokkho Career Data Science Course, Cohort-3. It summarizes data collected about hotels and properties of Bangladesh as listed in the Booking.com website
+This repository summarizes data collected about hotels and properties of Bangladesh as listed in the Booking.com website
 
 ## Problem Statement
 The goal of this project is to gather information about hotels and properties of Bangladesh listed in the [Booking.com website](https://www.booking.com/searchresults.html?ss=Bangladesh&ssne=Bangladesh&ssne_untouched=Bangladesh&aid=304142&lang=en-us&sb=1&src_elem=sb&src=searchresults&dest_id=18&dest_type=country&ltfd=5%3A1%3A11-2023_12-2023_1-2024%3A1%3A&group_adults=2&no_rooms=1&group_children=0)
@@ -19,6 +19,8 @@ At the end of the scraping process I ended up with data for 551 hotels and prope
      Comfort (out of 10) <br>
      Value for money (out of 10) <br>
      Location (out of 10) <br>
+
+
 
 The code for the scraper is in [this link](https://github.com/lubnaonline228/hotels_and_properties_in_bd/blob/main/scraper_for_properties_in_bangladesh.py).
 

@@ -89,7 +89,7 @@ The second dashboard displays other relevant analytics, like 'average price by c
 
 8. Hotels of Bandarban have the lowest public rating.
 <br><br>
-<img src="https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/265c7398-0084-4198-9cbe-6eb71cfd8661" width="500" height="600">
+<img src="https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/265c7398-0084-4198-9cbe-6eb71cfd8661" width="500" height="400">
 
 
 ## Build from Sources and Run the Selenium Scraper

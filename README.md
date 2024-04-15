@@ -53,7 +53,7 @@ Here, the first dashboard displays a data summary by City. All the records are l
 <img src="https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/dfa76241-8a26-42a4-a2f8-b0483c738ec9" width="800" height="300">
 
 The second dashboard displays other relevant analytics, like 'average price by city and star rating', as well as 'highest rating by city'.
-<img src="https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/a8e4940b-e86f-4e58-b2f0-90ee0840903c" width="800" height="300">
+<img src="https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/a8e4940b-e86f-4e58-b2f0-90ee0840903c" width="800" height="400">
 
 ## Findings and Observations from the Dashboards
 1. Dhaka, Sylhet, and Cox's Bazar have the most hotels and properties listed on Booking.com

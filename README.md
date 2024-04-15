@@ -50,9 +50,7 @@ https://public.tableau.com/app/profile/nahid.akhtar/viz/HotelandPropertyDatafrom
 https://public.tableau.com/app/profile/nahid.akhtar/viz/HotelandPropertyDatafromBooking_com/Dashboard1?publish=yes
 
 Here, the first dashboard displays a data summary by City. All the records are linked to the first bar chart, so you can easily filter the entire dashboard by city, by selecting the required cities from the 'Number of hotels by city' bar chart.
-<img src="https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/dfa76241-8a26-42a4-a2f8-b0483c738ec9" width="100" height="100">
-
-![2023-12-17_14-21-12](https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/dfa76241-8a26-42a4-a2f8-b0483c738ec9)
+<img src="https://github.com/lubnaonline228/hotels_and_properties_in_bd/assets/46602183/dfa76241-8a26-42a4-a2f8-b0483c738ec9" width="800" height="300">
 
 The second dashboard displays other relevant analytics, like 'average price by city and star rating', as well as 'highest rating by city'.
 

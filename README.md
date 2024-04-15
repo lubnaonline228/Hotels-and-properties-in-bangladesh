@@ -6,6 +6,15 @@ The dashboard has been created on the Tableau application. Click [HERE](https://
 ## Problem Statement
 The goal of this project is to gather information about hotels and properties of Bangladesh listed in the [Booking.com website](https://www.booking.com/searchresults.html?ss=Bangladesh&ssne=Bangladesh&ssne_untouched=Bangladesh&aid=304142&lang=en-us&sb=1&src_elem=sb&src=searchresults&dest_id=18&dest_type=country&ltfd=5%3A1%3A11-2023_12-2023_1-2024%3A1%3A&group_adults=2&no_rooms=1&group_children=0)
 
+Here are the questions that I considered:
+
+1. Which 3 cities have the most hotels and properties listed on Booking.com?
+2. Is there a correlation between rating and the average price of hotels?
+3. Which city has the most expensive 4-star hotels?
+4. Are there any 5-star hotels in Rajshahi? What is the average price of a 4-star hotel in Rajshahi?
+5. Which 3 cities have the highest rating on Booking.com?
+6. In which cities can I find 4-star hotels in the price range of BDT 3,000 to 5,000?
+
 ## Data Scraping
 
 The code for the scraper is in [this link](https://github.com/lubnaonline228/hotels_and_properties_in_bd/blob/main/scraper_for_properties_in_bangladesh.py).
@@ -36,14 +45,7 @@ After running this code, you should get a file named `cleaned_dataset_properties
 
 ## Data Analytics
 
-Finally, I used the scraped and cleaned dataset to understand and analyze the data using the Tableau Dashboard. Here are the questions that I considered:
-
-1. Which 3 cities have the most hotels and properties listed on Booking.com?
-2. Is there a correlation between rating and the average price of hotels?
-3. Which city has the most expensive 4-star hotels?
-4. Are there any 5-star hotels in Rajshahi? What is the average price of a 4-star hotel in Rajshahi?
-5. Which 3 cities have the highest rating on Booking.com?
-6. In which cities can I find 4-star hotels in the price range of BDT 3,000 to 5,000?
+Finally, I used the scraped and cleaned dataset to understand and analyze the data using the Tableau Dashboard.
 
 You can view the public dashboards in the following 2 links: <br>
 https://public.tableau.com/app/profile/nahid.akhtar/viz/HotelandPropertyDatafromBooking_com/Dashboard2?publish=yes
